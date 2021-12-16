@@ -97,14 +97,3 @@ li{
 	padding:7px;
 }
 .navbar-dark .navbar-nav .nav-link {color:rgb(213 149 213);}
-@media screen and (min-width: 576px) {
-  div.h3carusel {
-    font-size: 50px;
-  }
-}
-
-@media screen and (max-width: 992px) {
-  div.h3carusel {
-    font-size: 30px;
-  }
-}
